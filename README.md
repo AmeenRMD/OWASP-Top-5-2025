@@ -22,7 +22,7 @@ This project analyzes each risk with:
 ## Downloads
 
 - Full report (PDF): [OWASP Top 5 (2025)](OWASP-Top-5-(2025).pdf)
-- Presentation (PDF): [OWASP Top 5](OWASP-Top-5.pdf)
+- Presentation (PDF): [OWASP Top 5](OWASP Top 5.pdf)
 
 For best viewing experience, download the PDF. GitHub preview may not render all visuals correctly.
 
