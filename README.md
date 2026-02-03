@@ -19,8 +19,12 @@ This project analyzes each risk with:
 - Real-world breach case studies
 - Security impact and lessons learned
 
-**Full report:** `OWASP Top 5 (2025).pdf`
-**Presentation:** `OWASP Top 5.pdf`
+## Downloads
+
+- Full report (PDF): [OWASP Top 5 (2025)](OWASPTop_5_2025.pdf)
+- Presentation (PDF): [OWASP Top 5](OWASP_Top_5.pdf)
+
+For best viewing experience, download the PDF. GitHub preview may not render all visuals correctly.
 
 ---
 
