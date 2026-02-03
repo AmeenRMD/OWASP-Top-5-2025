@@ -20,6 +20,7 @@ This project analyzes each risk with:
 - Security impact and lessons learned
 
 **Full report:** `OWASP Top 5 (2025).pdf`
+**Presentation:** `OWASP Top 5.pdf`
 
 ---
 
